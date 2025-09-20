@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fOBJlcpVJRveHyZHVb9f9WOfFLW4+IbVi8R6UHwUBw8=",
+  "Source": "simple-note-app-api",
+  "BasePath": "_content/simple-note-app-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
